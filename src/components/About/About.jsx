@@ -16,7 +16,7 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am a full stack developer from Lagos, Nigeria that started off in the Tech industry. Though a new carrer, l have worked on some projects.</p>
+                    <p>I am a full stack developer from Lagos, Nigeria that started off in the Tech industry. Though a new career, l have worked on over 10 projects, open for collaboration and to improve in my skills.</p>
                     <p>My passion for innovative tech skill is reflected in my enthusiam and dedication l bring to each project. </p>
                 </div>
                 <div className="about-skills">

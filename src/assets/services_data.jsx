@@ -2,7 +2,7 @@ const Services_Data = [
     {
         s_no:"01",
         s_name:"Web design",
-        s_desc:"Web development is the process of building, Effective web design enhances accessibility, responsiveness across devices, and ensures that a website aligns with a brand’s identity while meeting the needs of its audience...."
+        s_desc:"Effective web design enhances accessibility, responsiveness across devices, and ensures that a website aligns with a brand’s identity while meeting the needs of its audience...."
     },
     {
         s_no:"02",
