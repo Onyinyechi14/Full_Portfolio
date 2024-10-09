@@ -17,14 +17,17 @@ const MyWork = () => {
 </div>
 <div className="mywork-container">
     {mywork_data.map((work,index)=>{
-        return <img key={index} src={work.w_img} alt='' />
+        return <a key={index} href={work.w_ref} target="_blank" rel="noopener noreferrer"> <img src={work.w_img} alt='' /></a>
     })}
 </div>
-<div className="mywork-showmore">
-<p> Show More</p>
-<FontAwesomeIcon icon={faArrowRight} />
-</div>
-    </div>
+
+    <a href="https://traveleasy-3lsn.onrender.com/" target="_blank" rel="noopener noreferrer">
+      <div className="mywork-showmore">
+       <p> Show More</p>
+         <FontAwesomeIcon icon={faArrowRight} />
+      </div>
+    </a>
+  </div>
   )
 }
 
